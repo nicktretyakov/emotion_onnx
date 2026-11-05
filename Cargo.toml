@@ -1,0 +1,13 @@
+[package]
+name = "emotion_onnx"
+version = "0.1.0"
+edition = "2021"
+description = "Emotion recognition skeleton (pure std, ready for ONNX)"
+license = "MIT"
+
+[dependencies]
+# no external deps — pure Rust std only
+
+[profile.release]
+opt-level = 3
+lto = true

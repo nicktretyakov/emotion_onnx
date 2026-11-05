@@ -1,0 +1,5 @@
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+warning: unused config key `registry.protocol` in `/home/n/.cargo/config.toml`
+   Compiling emotion_onnx v0.1.0 (/mnt/samsung/RUST/emotion_onnx)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.97s
+     Running `target/debug/emotion_onnx`

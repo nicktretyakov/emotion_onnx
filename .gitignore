@@ -1,0 +1,14 @@
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Models can be large
+# models/*.onnx
+
+data/*
+!data/.gitkeep
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
